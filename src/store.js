@@ -17,21 +17,20 @@ const state = {
     {
       offset: 2,
       factor: 2.0,
-      header: "Diamond Road",
+      header: "Jewelry evolution",
       image: "/photo-1519608487953-e999c86e7455.jpeg",
       aspect: 1.5,
       text:
-        "The man who comes back through the Door in the Wall will never be quite the same as the man who went out. He will be wiser but less sure, happier but less self-satisfied, humbler in acknowledging his ignorance yet better equipped to understand the relationship of words to things, of systematic reasoning to the unfathomable mystery which it tries, forever vainly, to comprehend."
+        "Diamonds and gemstones are hardest assets, but using blockchain technology now can also be liquid assets. We are using non-fungible tokens to represent ownership of each individual jewelry. You trade NFTs frictionless while jewelry is secured in our vault. "
     },
     {
       offset: 3,
       factor: 2.25,
-      header: "Catalina",
+      header: "Diamonds and Gemstones",
       image: "/ph1.jpg",
       aspect: 1.5037,
       text:
-        "The substance can take you to heaven but it can also take you to hell. Or else to both, together or alternately. Or else (if you're lucky, or if you've made yourself ready) beyond either of them. And then beyond the beyond, back to where you started from — back to here, back to New Rotham sted, back to business as usual. Only now, of course, business as usual is completely different."
-    },
+        "Diamonds and Gemstones we provide are usually natural but incase they are lab-grown we will make sure you are aware of it before making purchase. Holders of Non-fungible token can make redeem their physical version of jewelry or trade it on NFT marketplace. If Holder decide to redeem off-chain gemstone NFT will be removed from marketplace and user will be asked to pay small fee to verify claim process." 
     {
       offset: 4,
       factor: 2.0,
@@ -39,8 +38,7 @@ const state = {
       image: "/ph3.jpg",
       aspect: 0.665,
       text:
-        "We’ve found that the people whose EEG doesn’t show any alpha-wave activity when they’re relaxed aren’t likely to respond significantly to the substance. That means that, for about fifteen percent of the population, we have to find other approaches to liberation."
-    },
+        "If you want to request off-chain gemstone please send email to |email| with first,last name and delivery address while phone muber is optional (used only for delivery updates). Then press claim on bottom of page which will authenticate your request (require small fee in $FLOW)."
     {
       offset: 5,
       factor: 1.75,
