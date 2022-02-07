@@ -31,7 +31,7 @@ const state = {
       aspect: 1.5037,
       text:
         "Diamonds and Gemstones we provide are usually natural but incase they are lab-grown we will make sure you are aware of it before making purchase. Holders of Non-fungible token can make redeem their physical version of jewelry or trade it on NFT marketplace. If Holder decide to redeem off-chain gemstone NFT will be removed from marketplace and user will be asked to pay small fee to verify claim process." 
-    {,
+    },
     {
       offset: 4,
       factor: 2.0,
@@ -40,8 +40,8 @@ const state = {
       aspect: 0.665,
       text:
         "If you want to request off-chain gemstone please send email to |email| with first,last name and delivery address while phone muber is optional (used only for delivery updates). Then press claim on bottom of page which will authenticate your request (require small fee in $FLOW)."
-    {,
-    }
+    },
+    {
       offset: 5,
       factor: 1.75,
       header: "Sector 8",
@@ -50,7 +50,8 @@ const state = {
       text:
         "By cultivating the state of mind that makes it possible for the dazzling ecstatic insights to become permanent and habitual illuminations. By getting to know oneself to the point where one won’t be compelled by one’s unconscious to do all the ugly, absurd, self-stultifying things that one so often finds oneself doing."
     },
-    { offset: 7, factor: 1.05, header: "The Factory", image: "/photo-1548191265-cc70d3d45ba1.jpeg", aspect: 1.77, text: "Education and enlightenment." }
+    {
+ offset: 7, factor: 1.05, header: "The Factory", image: "/photo-1548191265-cc70d3d45ba1.jpeg", aspect: 1.77, text: "Education and enlightenment." }
   ],
   stripes: [
     { offset: 0, color: "#000", height: 13 },
